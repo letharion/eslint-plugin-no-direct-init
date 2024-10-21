@@ -1,5 +1,5 @@
 const { RuleTester } = require('eslint');
-const rule = require('./eslint-plugin-no-direct-init').rules['no-direct-init'];
+const rule = require('./index').rules['no-direct-init'];
 
 const ruleTester = new RuleTester({
     parserOptions: {
