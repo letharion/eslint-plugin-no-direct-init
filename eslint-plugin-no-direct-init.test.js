@@ -21,6 +21,10 @@ ruleTester.run('no-direct-init', rule, {
             code: "let client; client = client || new client();",
             options: [['client']],
         },
+        {
+            code: "const client = new client();",
+            options: [['someOtherClass']],
+        },
     ],
     invalid: [
         {
