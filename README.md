@@ -5,7 +5,7 @@
 
 ## Overview
 
-This ESLint rule, `no-direct-init`, forbids the direct initialization, `new`  of specified classes.
+This ESLint rule, `no-direct-init`, forbids the direct initialization, `new`,  of specified classes.
 The purpose is to enforce project specific rules that may be to use factory methods or other patterns.
 
 ## Installation
