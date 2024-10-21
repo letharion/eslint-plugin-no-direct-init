@@ -2,6 +2,7 @@
 ![Lines](./coverage/badge-lines.svg)
 ![Functions](./coverage/badge-functions.svg)
 ![Statements](./coverage/badge-statements.svg)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Overview
 
