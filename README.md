@@ -12,9 +12,12 @@ The purpose is to enforce project specific rules that may be to use factory meth
 Install via your favorite package manager, for example:
 
 ```bash
-npm install eslint-plugin-no-direct-init
+npm install eslint-plugin-no-direct-init --save-dev
 ```
 
+```bash
+yarn add eslint-plugin-no-direct-init --dev
+```
 
 ## Configuration
 
